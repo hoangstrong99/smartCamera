@@ -1,2 +1,3 @@
-#smartCamera
-OKE cac ban nho
+
+# smartCamera
+hello Manh from version1
