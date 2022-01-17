@@ -1,3 +1,3 @@
 
 # smartCamera
-hello Manh from version1
+hello Manh from develop
