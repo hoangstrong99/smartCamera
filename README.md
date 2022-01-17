@@ -1,2 +1,2 @@
 #smartCamera
-hello cac ban nhooooo
+OKE cac ban nho
