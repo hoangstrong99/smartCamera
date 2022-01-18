@@ -1,2 +1,2 @@
 hello manh from issue2
-12345
+123456
