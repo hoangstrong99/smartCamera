@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #Chinh sua file reset1
+=======
+#Chinh sua file reset
+ahahahaha
+>>>>>>> 436452c0d90bf2f1a6bb04c878668f076c8a95f7
